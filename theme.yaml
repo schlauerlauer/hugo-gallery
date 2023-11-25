@@ -1,0 +1,13 @@
+name: "Hugo Gallery"
+license: "MIT"
+licenselink: "https://github.com/schlauerlauer/hugo-gallery/blob/main/LICENSE"
+description: "A Gallery theme for Hugo using tailwindcss"
+homepage: "https://github.com/schlauerlauer/hugo-gallery"
+tags:
+features:
+min_version: "0.116.0"
+extended: true
+
+author:
+  name: "Janek Lauer"
+  homepage: "https://github.com/schlauerlauer"
